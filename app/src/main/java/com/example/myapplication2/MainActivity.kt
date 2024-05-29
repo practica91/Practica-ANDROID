@@ -18,5 +18,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         print("mensaje de inicio")
+
+        print("mensaje de prueba en main activity")
     }
 }
